@@ -1,16 +1,19 @@
-### Hi there 👋
+**Bem vindos ao meu perfil!** 🐧
 
-<!--
-**rafasilva9/rafasilva9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Rafaella da Silva 
 
-Here are some ideas to get you started:
+- Pratico esportes
+- Sou um estudante do primeiro ano
+- Pretendo cursar arquitetura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  Você pode me contatar através de:
+  
+  Instagram: Rafa.slvz
+  
+  Gmail: Rafaella.da.silva@escola.pr.gov.br
+
+  ![image](https://github.com/rafasilva9/rafasilva9/assets/137110761/fbf75865-149f-495e-8018-840658d7fcbd)
+
+  "A história se repete, a primeira vez como tragédia e a segunda como farsa."
