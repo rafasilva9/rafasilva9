@@ -8,7 +8,7 @@ Me chamo Rafaella da Silva
 
 
 
-  Você pode me contatar através de:
+  🦋 Você pode me contatar através de:
   
   Instagram: Rafa.slvz
   
